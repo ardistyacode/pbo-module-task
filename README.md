@@ -1,5 +1,4 @@
 # pbo-module-task
-TUGAS PBO PRAKTIKUM
 using System;
 using System.Collections.Generic;
 using System.Linq;
